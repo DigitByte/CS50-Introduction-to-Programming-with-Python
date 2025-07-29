@@ -59,7 +59,7 @@ print(f"hello, {name}")
 
 # Function Chaining:
 # Methods can be chained to process input in one line
-name = input("What is your name bro?\n").strip().title()
+name = input("What is your name?\n").strip().title()
 print(f"Hello, {name}")
 
 
