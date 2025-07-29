@@ -42,7 +42,7 @@ This course is beginner-friendly and does not require any prior programming expe
 
 ## 🛡️ License
 
-This repository is licensed under the [MIT License](LICENSE).
+This repository is licensed under the [Creative Commons License](LICENSE).
 CS50 materials are © Harvard University and licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ---
